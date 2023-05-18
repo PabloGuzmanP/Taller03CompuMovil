@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group_user_options">
+        <item
+            android:id="@+id/menu_modify_user_info"
+            android:title="Modificar información del usuario" />
+        <item
+            android:id="@+id/menu_set_available"
+            android:title="Establecerse como disponible" />
+    </group>
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Cerrar sesión" />
+</menu>
